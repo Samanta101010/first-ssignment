@@ -6,8 +6,38 @@
 /* banner style */
 
 .header{
-    background-image: url('../images/gradient2.png');
+    background-image: url('../images/banner/banner2.png');
+    height: 809px;
+    width: 1600px;
+    left: 1600px;
+    top: 0px;
+    border-radius: 0px;
+
 }
-.banner{
-    text-align: right;
+.banner-description{
+    padding:200px 600px;
+}
+.button{
+    height: 64px;
+    width: 160px;
+    left: 1210px;
+    top: 578px;
+    border-radius: 5px;
+    color: orangered;
+    position: absolute;
+    align-content: center;
+    
+
+}
+
+.banner-title{
+    
+    color: #151414;
+    font-weight: 700;
+    font-size: 55px;
+
+}
+
+.banner-detail{
+    margin-top:0;
 }
