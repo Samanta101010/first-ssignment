@@ -66,6 +66,11 @@
     width: 1050px;
 }
 
+.f-image {
+    align-items: center;
+
+}
+
 .faliure-title {
     font-family: Work Sans;
     font-size: 40px;
@@ -99,17 +104,53 @@
     left: 1009px;
     top: 1309px;
     border-radius: 0px;
-    
+    align-items: center;
+    padding: 0px 500px;
+
 
 
 }
 
-.plan-head{
+.plan-head {
 
     text-align: center;
 }
-.plan-container:{
+
+.plan-container {
 
     display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 200px;
+}
+
+.mindset {
+    margin-top: 120px;
+    background-image: url('../images/watch.png');
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    height: 300px;
+    width: 1140px;
+    left: 230px;
+    top: 2216.2998046875px;
+    border-radius: 8px;
+
+
+}
+
+.positive-mind {}
+
+.mind-head {
+    margin-top: 50px;
+}
+
+.future-container {
+    display: flex;
+}
+
+.future {
+    background-color: black;
+}
+
+.contact {
     
 }
