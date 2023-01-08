@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+/* banner style */
+
+.header{
+    background-image: url('../images/gradient2.png');
+}
+.banner{
+    text-align: right;
+}
